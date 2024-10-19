@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EnzoPaduanello
 - 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning Análise e Desenvolvimento de Sistemas (Analysis and Systems Development)
+- 🌱 I’m currently learning Análise e Desenvolvimento de Sistemas (Systems Analysis and Development)
 - 📫 How to reach me enzo.paduanello@gmail.com
 
 <!---
